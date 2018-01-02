@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "ducks",
-    "description": "This project is really great.",
-    "slug": "ducks",
+    "name": "ARsphere",
+    "description": "ARkit sphere",
+    "slug": "ARsphere",
     "privacy": "public",
     "sdkVersion": "24.0.0",
     "platforms": ["ios", "android"],
